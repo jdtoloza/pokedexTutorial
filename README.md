@@ -2,7 +2,7 @@ Source:https://www.youtube.com/watch?v=zOrejGF0oBA
 
 Reflection:
 
-Here is a quick list on what I learned from the tutorial
+A list on what I learned from this tutorial
 - innerHTML can be used to insert content into a container
 - exercised the fetch command with "then"
 - exercised catching an error
